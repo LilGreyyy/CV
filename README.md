@@ -6,25 +6,39 @@
 
 ## Izglītība
 •Pabeigta pamatizglītība - Dagdas vidusskola.
+
 •Sākta profesionālās vidējās izglītības programma - PIKC Rīgas Valsts tehnikums, Datortehnikas nodaļa, Programmētājs, 1.kurss.
+
 
 ## Sasniegumi
 •Skolā piedalījos daudzās matemātikas olimpiādes, kā arī olimpiādēs šajos priekšmetos: Vācu valoda, Latvijas vēsture.
+
 •Piedalījos arī sporta sacensības, bija iegūtas 1., 2., 3. vietas.
+
 
 ## Hobiji
 •No 2017. gada piedalījos Jaunsardzē, kā arī staigāju uz mākslas skolu.
+
 •3 gadus nodarbojos ar volejbolu.
+
 •Patīk klausīties mūziku un dziedāt.
+
 •Ieinteresējos ar programmēšanu, tāpēc cenšos arī tagad sākt paša kaut ko uzzināt jaunu.
+
 
 ## Pieredze programmēšana
 •Pirms iestājoties studēt Rīgas Valsts tehnikumā man nebija lielas pieredzes, it īpaši nesanāca daudz mācīties pašai, jo daudz laika aizņēma skola.
+
 •Esmu tikai nedaudz dzirdējusi un pati skatījusies par dažām programmēšanas valodām, strādāju nedaudz python valodā.
+
 •Dzirdēju par tādam programmēšānas valodām kā: Python, C++, Java, JavaScript, Pascal
+
 
 ## Valodas prasmes
 •Angļu valoda
+
 •Krievu valoda 
+
 •Latviešu valoda
+
 •Vācu valoda
