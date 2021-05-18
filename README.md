@@ -3,7 +3,7 @@
 **Vārds, Uzvārds:** Ilona Grebņova
 **Dzimšanas gads:** 2003. gads, 22.septembris
 **E-pasts:** ilonagreyyy@gmail.com
-![MyPortrait](/photos/mans_foto.jpg)
+![MyPortrait](mans_foto.jpg)
 
 ## Izglītība
 **No 2011.gada 1.septembra līdz 2020.gada 31.maijam** 
@@ -34,7 +34,7 @@ Pprofesionālās vidējās izglītības programma - PIKC Rīgas Valsts tehnikums
 
 * Esmu tikai nedaudz dzirdējusi un pati skatījusies par dažām programmēšanas valodām, strādāju nedaudz python valodā.
 
-* Dzirdēju par tādam programmēšānas valodām kā: Python, C++, Java, JavaScript, Pascal
+* Dzirdēju par tādam programmēšānas valodām kā: Python, C++, Java, JavaScript, CSS, Pascal, HTML
 
 
 ## Valodas prasmes
