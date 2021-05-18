@@ -3,7 +3,7 @@
 **Vārds, Uzvārds:** Ilona Grebņova
 **Dzimšanas gads:** 2003. gads, 22.septembris
 **E-pasts:** ilonagreyyy@gmail.com
-![picture](mans_foto.jpg)
+![picture](https://github.com/LilGreyyy/CV/blob/main/fotogr%C4%81fija/mans_foto.jpg)
 
 ## Izglītība
 **No 2011.gada 1.septembra līdz 2020.gada 31.maijam** 
